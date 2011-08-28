@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="50 60 320 400"
+   id="svg3074"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="spartan_alien.svg">
+  <metadata
+     id="metadata3123">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fully scalable reddit alien (try resizing the browser window)</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3121" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1609"
+     inkscape:window-height="1006"
+     id="namedview3119"
+     showgrid="false"
+     inkscape:zoom="1.31"
+     inkscape:cx="107.70992"
+     inkscape:cy="222.97447"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3081"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <!-- 
+       this SVG adaption of the Reddit Alien was made by Jonas Reinsch
+       with the help of Emacs and Firefox and a bitmap image of the alien.
+       Tested with Firefox, Safari and Opera.
+  -->
+  <title
+     id="title3076">Fully scalable reddit alien (try resizing the browser window)</title>
+  <clipPath
+     id="MyClip">
+    <rect
+       x="50"
+       y="60"
+       height="388.2"
+       width="400"
+       id="rect3079" />
+  </clipPath>
+  <g
+     clip-path="url(#MyClip)"
+     fill="white"
+     stroke="black"
+     stroke-width="8"
+     id="g3081">
+    <path
+       style="fill:#3471be;fill-opacity:1;stroke:#000000;stroke-width:8.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 194.27481,139.77098 -14.12215,-57.2519 17.55726,-12.595417 22.90077,0.381679 17.46564,12.595417 -13.17558,56.870221 z"
+       id="path3803"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#3471be;fill-opacity:1;stroke:#000000;stroke-width:8.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 104.96183,228.24427 -18.320609,53.05344 15.267179,77.8626 c 0,0 124.32466,-33.21168 170.61069,-17.17558 9.6448,-46.94101 -4.19848,-62.21374 -4.19848,-62.21374 l -55.72519,-48.85496 z"
+       id="path3801"
+       inkscape:connector-curvature="0"
+       transform="translate(50,60)"
+       sodipodi:nodetypes="ccccccc" />
+    <!-- ears -->
+    <g
+       transform="translate(210,185)"
+       id="g3083">
+      <circle
+         r="25"
+         cx="-105"
+         id="circle3085"
+         d="m -80,0 c 0,13.807119 -11.192881,25 -25,25 -13.80712,0 -25,-11.192881 -25,-25 0,-13.807119 11.19288,-25 25,-25 13.807119,0 25,11.192881 25,25 z" />
+      <circle
+         r="25"
+         cx="105"
+         id="circle3087"
+         d="M 130,0 C 130,13.807119 118.80712,25 105,25 91.192881,25 80,13.807119 80,0 c 0,-13.807119 11.192881,-25 25,-25 13.80712,0 25,11.192881 25,25 z" />
+    </g>
+    <!-- antenna -->
+    <!-- feet -->
+    <path
+       d="M287 444.5              c5 0 10-30-37-29              Q180 400 200 444.5z"
+       id="path3095" />
+    <path
+       d="M133 444.5              c-5 0 -10 -30 37-29              Q180 400 200 444.5z              "
+       id="path3097" />
+    <!-- body, arms -->
+    <g
+       transform="translate(210,330)"
+       id="g3099">
+      <g
+         transform="translate(0,10)"
+         id="g3101">
+        <ellipse
+           cx="-44"
+           rx="43"
+           ry="50"
+           id="ellipse3103"
+           d="m -1,0 c 0,27.614237 -19.251756,50 -43,50 -23.748244,0 -43,-22.385763 -43,-50 0,-27.614237 19.251756,-50 43,-50 23.748244,0 43,22.385763 43,50 z" />
+        <ellipse
+           cx="44"
+           rx="43"
+           ry="50"
+           id="ellipse3105"
+           d="M 87,0 C 87,27.614237 67.748244,50 44,50 20.251756,50 1,27.614237 1,0 c 0,-27.614237 19.251756,-50 43,-50 23.748244,0 43,22.385763 43,50 z" />
+      </g>
+      <ellipse
+         rx="57"
+         ry="120"
+         id="ellipse3107"
+         d="M 57,0 C 57,66.27417 31.480231,120 0,120 -31.480231,120 -57,66.27417 -57,0 c 0,-66.27417 25.519769,-120 57,-120 31.480231,0 57,53.72583 57,120 z"
+         style="fill:#e6af13;fill-opacity:1" />
+    </g>
+    <!-- head -->
+    <ellipse
+       cx="210"
+       cy="220"
+       rx="115"
+       ry="76"
+       id="ellipse3109" />
+    <!-- mouth -->
+    <path
+       d="M165 253Q210 283 255 253"
+       id="path3111" />
+    <!-- eyes -->
+    <g
+       stroke="white"
+       fill="#FF4500"
+       transform="translate(210,206)"
+       id="g3113">
+      <circle
+         r="16.2"
+         cx="-40"
+         id="circle3115"
+         d="m -23.799999,0 c 0,8.9470134 -7.252988,16.200001 -16.200001,16.200001 -8.947013,0 -16.200001,-7.2529876 -16.200001,-16.200001 0,-8.9470134 7.252988,-16.200001 16.200001,-16.200001 8.947013,0 16.200001,7.2529876 16.200001,16.200001 z" />
+      <circle
+         r="16.2"
+         cx="40"
+         id="circle3117"
+         d="M 56.200001,0 C 56.200001,8.9470134 48.947013,16.200001 40,16.200001 31.052987,16.200001 23.799999,8.9470134 23.799999,0 c 0,-8.9470134 7.252988,-16.200001 16.200001,-16.200001 8.947013,0 16.200001,7.2529876 16.200001,16.200001 z" />
+    </g>
+    <path
+       style="fill:#e6af13;fill-opacity:1;stroke:#000000;stroke-width:7.9000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 159.1603,77.480915 83.01527,17.175573 57.44275,0.763359 -18.32061,61.641223 -29.77099,68.89313 -74.80916,-0.76336 9.92366,-38.16793 32.44275,-12.21375 1.9084,-46.56489 -44.84733,-13.9313 -15.8397,47.51909 -15.45801,-47.32825 -46.755727,15.64886 2.290067,45.80153 31.6794,12.9771 8.39694,36.25954 -74.045796,0.38168 L 37.786259,155.34351 19.847328,95.419847 83.396946,92.366412 z"
+       id="path3011"
+       inkscape:connector-curvature="0"
+       transform="translate(50,60)"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <path
+       style="fill:#e6af13;stroke:#000000;stroke-width:8.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 42.366412,232.06107 C 29.060984,273.75442 57.887983,356.23417 98.091603,364.12214 116.60971,367.7554 55.67184,190.36773 42.366412,232.06107 z"
+       id="path3781"
+       inkscape:connector-curvature="0"
+       transform="translate(50,60)"
+       sodipodi:nodetypes="sss" />
+    <path
+       style="fill:#837171;fill-opacity:1;stroke:#000000;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 326.64122,256.18321 324.35114,234.80916 340,213.8168 l 1.52672,26.33587 z"
+       id="path3799"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#bf7f19;fill-opacity:1;stroke:#000000;stroke-width:2.77836633;stroke-linejoin:round;stroke-miterlimit:1.10000002;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3787"
+       width="6.1205573"
+       height="207.57996"
+       x="390.53616"
+       y="133.50667"
+       transform="matrix(0.94748849,0.31978988,-0.33499401,0.94222026,0,0)" />
+  </g>
+</svg>
