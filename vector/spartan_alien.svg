@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Fully scalable reddit alien (try resizing the browser window)</dc:title>
+        <dc:title>Spartan Alien (go SJSU!)</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,6 +58,9 @@
        this SVG adaption of the Reddit Alien was made by Jonas Reinsch
        with the help of Emacs and Firefox and a bitmap image of the alien.
        Tested with Firefox, Safari and Opera.
+
+       Further editing was performed by Erich Blume (HorrendousRex) with
+       the help of Inkscape to create a 'Spartan' reddit alien.
   -->
   <title
      id="title3076">Fully scalable reddit alien (try resizing the browser window)</title>
