@@ -13,7 +13,10 @@
    viewBox="50 60 268 383.10616"
    id="svg3074"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="spartan_alien.png">
+   sodipodi:docname="spartan_alien.svg"
+   inkscape:export-filename="/Users/eblume/Development/spartan_alien/vector/spartan_alien.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata3123">
     <rdf:RDF>
@@ -37,17 +40,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1609"
-     inkscape:window-height="1006"
+     inkscape:window-width="1395"
+     inkscape:window-height="886"
      id="namedview3119"
      showgrid="false"
      inkscape:zoom="1.31"
-     inkscape:cx="118.17436"
+     inkscape:cx="-16.940144"
      inkscape:cy="217.95062"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="117"
+     inkscape:window-y="88"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g3081"
+     inkscape:current-layer="g3087"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -92,14 +95,14 @@
          inkscape:connector-curvature="0"
          id="path3803"
          d="m 194.27481,139.77098 -14.12215,-57.2519 c 27.1972,-18.015936 33.49417,-17.235752 57.92367,0.381679 l -13.17558,56.870221 z"
-         style="fill:#3471be;fill-opacity:1;stroke:#000000;stroke-width:8.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#005a8b;fill-opacity:1;stroke:#000000;stroke-width:8.50000000000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="ccccccc"
          transform="translate(50,60)"
          inkscape:connector-curvature="0"
          id="path3801"
          d="m 104.96183,228.24427 -18.320609,53.05344 15.267179,77.8626 c 0,0 124.32466,-33.21168 170.61069,-17.17558 9.6448,-46.94101 -4.19848,-62.21374 -4.19848,-62.21374 l -55.72519,-48.85496 z"
-         style="fill:#3471be;fill-opacity:1;stroke:#000000;stroke-width:8.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#005a8b;fill-opacity:1;stroke:#000000;stroke-width:8.50000000000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <g
          id="g3083"
          transform="translate(210,185)">
@@ -168,7 +171,7 @@
            sodipodi:cx="0"
            cy="0"
            cx="0"
-           style="fill:#e6af13;fill-opacity:1"
+           style="fill:#c79900;fill-opacity:1"
            d="M 57,0 C 57,66.27417 31.480231,120 0,120 -31.480231,120 -57,66.27417 -57,0 c 0,-66.27417 25.519769,-120 57,-120 31.480231,0 57,53.72583 57,120 z"
            id="ellipse3107"
            ry="120"
@@ -220,14 +223,14 @@
          inkscape:connector-curvature="0"
          id="path3781"
          d="M 42.366412,232.06107 C 29.060984,273.75442 57.887983,356.23417 98.091603,364.12214 116.60971,367.7554 55.67184,190.36773 42.366412,232.06107 z"
-         style="fill:#e6af13;fill-opacity:1;stroke:#000000;stroke-width:8.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#c79900;fill-opacity:1;stroke:#000000;stroke-width:8.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="cccccccccccccc"
          transform="translate(50,60)"
          inkscape:connector-curvature="0"
          id="path3011"
          d="m 262.86202,206.52226 -84.09614,48.24549 -0.87186,-65.85562 43.18995,-14.10297 c 4.55756,-17.64852 5.4958,-37.29704 -2.0916,-56.56489 l -42.84733,8.0687 -15.8397,43.51909 -15.45801,-43.32825 -44.75573,-8.35114 c -5.57096,19.14029 -7.744158,39.7408 -1.70993,57.80153 l 42.96638,15.67598 0.57018,64.05801 -89.00042,-53.86582 C -15.214644,36.528855 346.12878,34.851393 262.86202,206.52226 z"
-         style="fill:#e6af13;fill-opacity:1;stroke:#000000;stroke-width:7.9000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#c79900;fill-opacity:1;stroke:#000000;stroke-width:7.90000009999999975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
