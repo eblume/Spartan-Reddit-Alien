@@ -7,3 +7,27 @@ Original source file reddit_alien.svg (found in vector/) was created
 by Jonas Reinsch, http://jonasreinsch.com/reddit_alien.svg - thanks!
 
 See COPYING for information pertaining to copyright and licensing.
+
+
+USING THIS PROJECT
+
+There are two folders - 'raster' and 'vector'. Original source materials may
+be present in both folders, but in general, source materials are stored in
+vector form (SVG normally) under the 'vector' folder.
+
+Because many applications require rasterized graphics, vector source materials
+should ALWAYS be rasterized and stored under the 'raster' folder, preferably
+as PNGs at 90dpi with a sensible resolution for web or standard print media.
+If you commit a change to a vector file, please re-rasterize it in the same 
+commit or in an immediatly following commit (preferred).
+
+Additionally, some source materials are stored only in rasterized form, due to
+their simple nature (such as the banner logo for the /r/SJSU subreddit). These
+files are stored in the 'raster' folder and need no additional management.
+
+Finally, some source materials are not rasterized but aren't technically
+'vector' graphics either. An example would be Adobe Photoshop project files or
+GIMP project files. Because the workflow is identical for these files as for
+vector graphics (ie, they need to be rasterized to be viewed), treat them
+identically to vector graphics, including re-rasterizing for each effecting
+commit.
